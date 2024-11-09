@@ -25,6 +25,11 @@ button{
     background-color: rgb(47, 47, 47);
 }
 
+footer{
+    text-align: center;
+    padding-top: 20px;
+}
+
 
 @media screen and (min-width: 390px) and (max-width:500px) {
     
@@ -55,5 +60,9 @@ button{
         background-color: rgb(47, 47, 47);
     }
     
+    footer{
+        text-align: center;
+        padding-top: 20px;
+    }
 
 }
