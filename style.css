@@ -1,0 +1,59 @@
+*{
+    margin:0px;
+    padding: 0px;
+    box-sizing: 0px;
+}
+
+body{
+    padding-top: 100px;
+    
+}
+header, main{
+    display:inline;
+    text-align: center;
+    font-size: 30px;
+}
+
+img{
+    width: 250px;
+}
+
+button{
+    width: 100px;
+    height: 30px;
+    color: antiquewhite;
+    background-color: rgb(47, 47, 47);
+}
+
+
+@media screen and (min-width: 390px) and (max-width:500px) {
+    
+    *{
+        margin:0px;
+        padding: 0px;
+        box-sizing: 0px;
+    }
+    
+    body{
+        padding-top: 40px;
+        
+    }
+    header, main{
+        display:inline;
+        text-align: center;
+        font-size: 30px;
+    }
+    
+    img{
+        width: 250px;
+    }
+    
+    button{
+        width: 100px;
+        height: 30px;
+        color: antiquewhite;
+        background-color: rgb(47, 47, 47);
+    }
+    
+
+}
